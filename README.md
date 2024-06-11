@@ -1,15 +1,22 @@
  tableau_projects
+ 
  The entire repository of Tableau Projects consists of 3 projects: Crop production analysis, Employee attrition analysis, Amazon Sales Data analysis
+ 
  Objectives:
  The objective of these projects is as follows:
  Crop production analysis: To find the highest crop producing states and the factors responsible for crop production.
  Employee Attrition Analysis: To find the reasons behind a high attrition rate in the company and the ways to make employee policies better to prevent further attrition.
  Amazon Sales Data Analysis: To find region wise, category wise and country wise sales of Amazon sales figures and create a concise report of sales.
+ 
  Project Difficulty level: Intermediate to Advanced
+ 
  Tools Used: MS-Excel, Tableau
  Datasource :  Crop Production Analysis: https://drive.google.com/file/d/1b3E1vpDSYpHe8YlNs3jkt30Lx6acf0Uo/view
  Employee Attrition Analysis: https://drive.google.com/file/d/1xZ98oGm8FDK8uTu8yqsVjc2PrfGt7B6z/view
  Amazon Sales Data:https://drive.google.com/file/d/10sofXyF6NjwN6ngLyFfiPI-CUDpeqaN_/view
+
+ Technology: Business Intelligence 
+
  Conclusion:
  
  For Crop Production Analysis:
